@@ -1,0 +1,14 @@
+{
+    "name": "sterc/project",
+    "version": "v1.0.0",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+     "repositories": [
+      { "type": "vcs", "url": "git@bitbucket.org:sterc/skeleton.git" }
+    ],
+    "require": {
+      "sterc/skeleton": "*"
+    }
+  }
